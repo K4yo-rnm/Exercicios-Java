@@ -1,10 +1,10 @@
-# ☕ Java — Fundamentos e Exercícios
+# Java — Fundamentos e Exercícios
 
 Repositório dedicado aos meus estudos e exercícios práticos em **Java**, desenvolvidos durante minha formação em Ciência da Computação.
 
 O objetivo é consolidar conhecimentos na linguagem, desenvolver o raciocínio lógico e aplicar conceitos fundamentais da programação, desde orientação a objetos até expressões Lambda, Streams e programação concorrente.
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 java-fundamentals-and-exercises/
@@ -43,7 +43,7 @@ java-fundamentals-and-exercises/
     └── Teclado-de-Celular/
 ```
 
-## 🧠 O que foi estudado e aplicado
+## O que foi estudado e aplicado
 
 ### 1. Programação Orientada a Objetos (POO)
 
@@ -97,7 +97,7 @@ java-fundamentals-and-exercises/
 - Organização de componentes com layouts.
 - Tratamento de eventos e interações do usuário.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Java:** linguagem utilizada no desenvolvimento dos exercícios.
 - **Java Collections Framework:** manipulação de estruturas de dados.
@@ -106,19 +106,10 @@ java-fundamentals-and-exercises/
 - **Git e GitHub:** versionamento e organização dos códigos.
 - **IDE:** ambiente de desenvolvimento para escrita e execução dos exercícios.
 
-## 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 Este repositório representa parte da minha jornada de aprendizado em Java e desenvolvimento de software.
 
 Cada exercício contribui para o fortalecimento da lógica de programação, compreensão dos fundamentos da linguagem e aplicação de boas práticas de desenvolvimento.
 
 O conteúdo será atualizado conforme avanço nos estudos e desenvolvo novos projetos.
-
-## 👨‍💻 Autor
-
-**Caio Braga**
-
-Estudante de Ciência da Computação | Desenvolvedor Java
-
-- GitHub: [K4yo-rnm](https://github.com/K4yo-rnm)
-- LinkedIn: [Caio Braga](https://www.linkedin.com/in/caio-braga-ti/)
